@@ -1,20 +1,12 @@
-# EduManage School Management System
+#EduManage-School Management System 
+System Development N5 Project 
 
-EduManage is a modern, comprehensive school management solution designed to streamline administrative tasks, enhance communication between teachers, students, and parents, and provide real-time insights into academic performance.
+##About 
+A broswer-based school management system built with React.
+Manage student records,grades and attendance
 
-## Key Features
-- **Student Information System**: Manage student records, enrollment, and attendance.
-- **Academic Management**: Track grades, assignments, and curriculum.
-- **Communication Hub**: Integrated messaging and announcements.
-- **Finance & Billing**: Manage tuition fees and school expenses.
-- **Reporting & Analytics**: Dashboards for data-driven decision-making.
-
-## Technology Stack
-- **Frontend**: React.js with Vanilla CSS
-- **Design**: Premium, modern interface with high-end aesthetics.
-
-## Getting Started
-To run the project locally:
-1. Clone the repository.
-2. Install dependencies (if applicable).
-3. Open `index.html` or run the dev server.
+##Student Details 
+Name : Kendy
+Student No:12345
+institute :Eagle View college
+year: 2026 
